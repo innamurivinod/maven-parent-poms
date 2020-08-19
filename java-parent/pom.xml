@@ -10,7 +10,7 @@
   </parent>
 
   <artifactId>java-parent</artifactId>
-  <packaging>pom</packaging>
+  <packaging>jar</packaging>
 
   <name>Java Parent</name>
   <description>Parent for Java projects</description>
