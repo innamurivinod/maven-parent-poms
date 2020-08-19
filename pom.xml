@@ -5,7 +5,7 @@
   <groupId>com.github.gantsign.parent</groupId>
   <artifactId>common-parent</artifactId>
   <version>2.5.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>pom</packaging>
 
   <name>Common Parent</name>
   <description>Parent for all Maven modules and projects with a mix of Java and Kotlin</description>
